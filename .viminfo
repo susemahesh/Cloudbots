@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1743701863,,"wq!"
+|2,0,1743701947,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,26 @@
 # Registers:
 
 # File marks:
-'0  1  13  ~/demo.java
-|4,48,1,13,1743701863,"~/demo.java"
-'1  1  13  ~/cloudbots/demo.txt
-|4,49,1,13,1743584422,"~/cloudbots/demo.txt"
+'0  2  14  ~/demo.java
+|4,48,2,14,1743701947,"~/demo.java"
+'1  1  13  ~/demo.java
+|4,49,1,13,1743701863,"~/demo.java"
+'2  1  13  ~/demo.java
+|4,50,1,13,1743701863,"~/demo.java"
+'3  1  13  ~/cloudbots/demo.txt
+|4,51,1,13,1743584422,"~/cloudbots/demo.txt"
 
 # Jumplist (newest first):
+-'  2  14  ~/demo.java
+|4,39,2,14,1743701947,"~/demo.java"
+-'  1  13  ~/demo.java
+|4,39,1,13,1743701930,"~/demo.java"
 -'  1  13  ~/demo.java
 |4,39,1,13,1743701863,"~/demo.java"
+-'  1  13  ~/cloudbots/demo.txt
+|4,39,1,13,1743584422,"~/cloudbots/demo.txt"
+-'  1  13  ~/cloudbots/demo.txt
+|4,39,1,13,1743584422,"~/cloudbots/demo.txt"
 -'  1  13  ~/cloudbots/demo.txt
 |4,39,1,13,1743584422,"~/cloudbots/demo.txt"
 -'  1  13  ~/cloudbots/demo.txt
@@ -41,11 +53,12 @@
 # History of marks within files (newest to oldest):
 
 > ~/demo.java
-	*	1743701861	0
-	"	1	13
-	^	1	14
-	.	1	13
-	+	1	13
+	*	1743701944	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	1	14
+	+	2	14
 
 > ~/cloudbots/demo.txt
 	*	1743584421	0
