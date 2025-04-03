@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1743702531,,"wq!"
+|2,0,1743702816,,"wq!"
 :wq
 |2,0,1743702272,,"wq"
 
@@ -27,34 +27,46 @@
 # Registers:
 
 # File marks:
-'0  1  8  ~/welcome.java
-|4,48,1,8,1743702531,"~/welcome.java"
-'1  3  1  ~/.gitignore
-|4,49,3,1,1743702363,"~/.gitignore"
-'2  1  0  ~/fourth.java
-|4,50,1,0,1743702311,"~/fourth.java"
-'3  1  0  ~/third.net
-|4,51,1,0,1743702296,"~/third.net"
-'4  1  0  ~/secund.cpp
-|4,52,1,0,1743702278,"~/secund.cpp"
-'5  1  0  ~/one.py
-|4,53,1,0,1743702261,"~/one.py"
-'6  2  14  ~/demo.java
-|4,54,2,14,1743701947,"~/demo.java"
-'7  1  13  ~/demo.java
-|4,55,1,13,1743701863,"~/demo.java"
-'8  1  13  ~/demo.java
-|4,56,1,13,1743701863,"~/demo.java"
-'9  1  13  ~/cloudbots/demo.txt
-|4,57,1,13,1743584422,"~/cloudbots/demo.txt"
+'0  3  0  ~/welcome.java
+|4,48,3,0,1743702816,"~/welcome.java"
+'1  1  8  ~/welcome.java
+|4,49,1,8,1743702531,"~/welcome.java"
+'2  1  8  ~/welcome.java
+|4,50,1,8,1743702531,"~/welcome.java"
+'3  3  1  ~/.gitignore
+|4,51,3,1,1743702363,"~/.gitignore"
+'4  1  0  ~/fourth.java
+|4,52,1,0,1743702311,"~/fourth.java"
+'5  1  0  ~/third.net
+|4,53,1,0,1743702296,"~/third.net"
+'6  1  0  ~/secund.cpp
+|4,54,1,0,1743702278,"~/secund.cpp"
+'7  1  0  ~/one.py
+|4,55,1,0,1743702261,"~/one.py"
+'8  2  14  ~/demo.java
+|4,56,2,14,1743701947,"~/demo.java"
+'9  1  13  ~/demo.java
+|4,57,1,13,1743701863,"~/demo.java"
 
 # Jumplist (newest first):
+-'  3  0  ~/welcome.java
+|4,39,3,0,1743702816,"~/welcome.java"
+-'  1  8  ~/welcome.java
+|4,39,1,8,1743702799,"~/welcome.java"
 -'  1  8  ~/welcome.java
 |4,39,1,8,1743702531,"~/welcome.java"
 -'  3  1  ~/.gitignore
 |4,39,3,1,1743702363,"~/.gitignore"
 -'  3  1  ~/.gitignore
 |4,39,3,1,1743702363,"~/.gitignore"
+-'  3  1  ~/.gitignore
+|4,39,3,1,1743702363,"~/.gitignore"
+-'  3  1  ~/.gitignore
+|4,39,3,1,1743702363,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1743702321,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1743702321,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1743702321,"~/.gitignore"
 -'  1  0  ~/.gitignore
@@ -67,6 +79,30 @@
 |4,39,1,0,1743702311,"~/fourth.java"
 -'  1  0  ~/fourth.java
 |4,39,1,0,1743702311,"~/fourth.java"
+-'  1  0  ~/fourth.java
+|4,39,1,0,1743702311,"~/fourth.java"
+-'  1  0  ~/fourth.java
+|4,39,1,0,1743702311,"~/fourth.java"
+-'  1  0  ~/fourth.java
+|4,39,1,0,1743702311,"~/fourth.java"
+-'  1  0  ~/fourth.java
+|4,39,1,0,1743702311,"~/fourth.java"
+-'  1  0  ~/third.net
+|4,39,1,0,1743702296,"~/third.net"
+-'  1  0  ~/third.net
+|4,39,1,0,1743702296,"~/third.net"
+-'  1  0  ~/third.net
+|4,39,1,0,1743702296,"~/third.net"
+-'  1  0  ~/third.net
+|4,39,1,0,1743702296,"~/third.net"
+-'  1  0  ~/third.net
+|4,39,1,0,1743702296,"~/third.net"
+-'  1  0  ~/third.net
+|4,39,1,0,1743702296,"~/third.net"
+-'  1  0  ~/third.net
+|4,39,1,0,1743702296,"~/third.net"
+-'  1  0  ~/third.net
+|4,39,1,0,1743702296,"~/third.net"
 -'  1  0  ~/third.net
 |4,39,1,0,1743702296,"~/third.net"
 -'  1  0  ~/third.net
@@ -115,6 +151,38 @@
 |4,39,1,0,1743702278,"~/secund.cpp"
 -'  1  0  ~/secund.cpp
 |4,39,1,0,1743702278,"~/secund.cpp"
+-'  1  0  ~/secund.cpp
+|4,39,1,0,1743702278,"~/secund.cpp"
+-'  1  0  ~/secund.cpp
+|4,39,1,0,1743702278,"~/secund.cpp"
+-'  1  0  ~/secund.cpp
+|4,39,1,0,1743702278,"~/secund.cpp"
+-'  1  0  ~/secund.cpp
+|4,39,1,0,1743702278,"~/secund.cpp"
+-'  1  0  ~/secund.cpp
+|4,39,1,0,1743702278,"~/secund.cpp"
+-'  1  0  ~/secund.cpp
+|4,39,1,0,1743702278,"~/secund.cpp"
+-'  1  0  ~/secund.cpp
+|4,39,1,0,1743702278,"~/secund.cpp"
+-'  1  0  ~/secund.cpp
+|4,39,1,0,1743702278,"~/secund.cpp"
+-'  1  0  ~/secund.cpp
+|4,39,1,0,1743702278,"~/secund.cpp"
+-'  1  0  ~/secund.cpp
+|4,39,1,0,1743702278,"~/secund.cpp"
+-'  1  0  ~/secund.cpp
+|4,39,1,0,1743702278,"~/secund.cpp"
+-'  1  0  ~/secund.cpp
+|4,39,1,0,1743702278,"~/secund.cpp"
+-'  1  0  ~/secund.cpp
+|4,39,1,0,1743702278,"~/secund.cpp"
+-'  1  0  ~/secund.cpp
+|4,39,1,0,1743702278,"~/secund.cpp"
+-'  1  0  ~/secund.cpp
+|4,39,1,0,1743702278,"~/secund.cpp"
+-'  1  0  ~/secund.cpp
+|4,39,1,0,1743702278,"~/secund.cpp"
 -'  1  0  ~/one.py
 |4,39,1,0,1743702261,"~/one.py"
 -'  1  0  ~/one.py
@@ -179,85 +247,19 @@
 |4,39,1,0,1743702261,"~/one.py"
 -'  1  0  ~/one.py
 |4,39,1,0,1743702261,"~/one.py"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
--'  2  14  ~/demo.java
-|4,39,2,14,1743701947,"~/demo.java"
+-'  1  0  ~/one.py
+|4,39,1,0,1743702261,"~/one.py"
 
 # History of marks within files (newest to oldest):
 
 > ~/welcome.java
-	*	1743702529	0
-	"	1	8
-	^	1	9
-	.	1	8
+	*	1743702814	0
+	"	3	0
+	^	3	0
+	.	2	20
 	+	1	8
+	+	4	0
+	+	2	20
 
 > ~/.gitignore
 	*	1743702360	0
