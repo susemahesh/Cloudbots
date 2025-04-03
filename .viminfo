@@ -12,7 +12,11 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
+<<<<<<< HEAD
 |2,0,1743702816,,"wq!"
+=======
+|2,0,1743702749,,"wq!"
+>>>>>>> Release_1.0.0
 :wq
 |2,0,1743702272,,"wq"
 
@@ -27,8 +31,13 @@
 # Registers:
 
 # File marks:
+<<<<<<< HEAD
 '0  3  0  ~/welcome.java
 |4,48,3,0,1743702816,"~/welcome.java"
+=======
+'0  2  19  ~/welcome.java
+|4,48,2,19,1743702749,"~/welcome.java"
+>>>>>>> Release_1.0.0
 '1  1  8  ~/welcome.java
 |4,49,1,8,1743702531,"~/welcome.java"
 '2  1  8  ~/welcome.java
@@ -49,10 +58,17 @@
 |4,57,1,13,1743701863,"~/demo.java"
 
 # Jumplist (newest first):
+<<<<<<< HEAD
 -'  3  0  ~/welcome.java
 |4,39,3,0,1743702816,"~/welcome.java"
 -'  1  8  ~/welcome.java
 |4,39,1,8,1743702799,"~/welcome.java"
+=======
+-'  2  19  ~/welcome.java
+|4,39,2,19,1743702749,"~/welcome.java"
+-'  1  8  ~/welcome.java
+|4,39,1,8,1743702726,"~/welcome.java"
+>>>>>>> Release_1.0.0
 -'  1  8  ~/welcome.java
 |4,39,1,8,1743702531,"~/welcome.java"
 -'  3  1  ~/.gitignore
@@ -253,6 +269,7 @@
 # History of marks within files (newest to oldest):
 
 > ~/welcome.java
+<<<<<<< HEAD
 	*	1743702814	0
 	"	3	0
 	^	3	0
@@ -260,6 +277,14 @@
 	+	1	8
 	+	4	0
 	+	2	20
+=======
+	*	1743702746	0
+	"	2	19
+	^	2	20
+	.	2	19
+	+	1	10
+	+	2	19
+>>>>>>> Release_1.0.0
 
 > ~/.gitignore
 	*	1743702360	0
